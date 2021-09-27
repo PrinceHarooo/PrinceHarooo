@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
