@@ -16,12 +16,7 @@
 ### PrinceHarooo Profile: &nbsp;
 
 
- - 🛠️ Minecraft Bedrock Developer & Newbie Discord Bot Developer
- - 🗺️ From Malaysia And Live On Earth
- - 🍰 4 October 2005 
- - 🔞 17 Years Old
- - 🧒 Gentleman
- - 💬 Dm Me If You Wank Ask Something
+ - 🛠️ Minecraft Bedrock Developer & Discord Bot Developer
 
 
 ### **Languages And Tools:** &nbsp;
