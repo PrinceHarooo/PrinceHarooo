@@ -1,6 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrinceHarooo&color=ff69b4&style=plastic)" alt="view" /> </p>
 
-### <div align="center">Hola Dude... I'm PrinceHarooo, Nice To Meet You 👋</div> 
 
 
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-2/695494618212728872.png" alt="Discord" /> </p>
@@ -16,7 +15,7 @@
 ### PrinceHarooo Profile: &nbsp;
 
 
- - 🛠️ Minecraft Bedrock Developer & Discord Bot Developer
+ - 🛠️ Minecraft Bedrock Developer
 
 
 ### **Languages And Tools:** &nbsp;
