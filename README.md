@@ -21,14 +21,11 @@
 ### **Languages And Tools:** &nbsp;
 <p align="center">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/php-black.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
  
